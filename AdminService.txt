@@ -1,5 +1,5 @@
 add and remove users
 Change the roles
-manage the database
+manage the database mysql
 close the connection
 Everything is good

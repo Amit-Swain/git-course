@@ -2,4 +2,4 @@ add and remove users
 Change the roles
 manage the database oracle
 close the connection
-Everything is bad
+Everything is bad nothing is working here
